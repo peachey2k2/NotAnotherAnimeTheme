@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://media.discordapp.net/attachments/1078181775626473493/1154303083992584262/image.png);
+  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
 
   /*
     Main Theme Color
@@ -31,12 +31,12 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.6);
+  --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://media.discordapp.net/attachments/1055147496063651941/1096421019742392341/9A234EC5-BA94-4471-8BEC-22CD47368241.jpg?width=689&height=689);
+  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
 
   /*
     Change your friends icon image position
@@ -55,12 +55,12 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 62px;
+  --server-listing-width: 126px;
 
   /*
     Font Size
   */
-  --font-size: 130%;
+  --font-size: 100%;
 
   /*
     Mention colors
@@ -199,6 +199,6 @@
   */
   --reaction-emoji-background-color: rgba(0, 0, 0, 0);
   --reaction-emoji-border-color: 1px solid transparent;
-  --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0);
+  --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
 }
