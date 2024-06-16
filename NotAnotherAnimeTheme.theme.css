@@ -31,12 +31,12 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.6);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://media.discordapp.net/attachments/1055147496063651941/1096421019742392341/9A234EC5-BA94-4471-8BEC-22CD47368241.jpg?width=689&height=689);
 
   /*
     Change your friends icon image position
@@ -55,12 +55,12 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
   */
-  --font-size: 100%;
+  --font-size: 130%;
 
   /*
     Mention colors
